@@ -6,7 +6,7 @@
     "node": ">=16.20.1"
   },
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "node src/index.js",
     "test": "jest -i"
   },
   "dependencies": {
